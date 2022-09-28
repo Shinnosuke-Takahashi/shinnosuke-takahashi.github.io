@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/public/index.html/static/css/main.7bc65b5e.css",
+    "main.js": "/public/index.html/static/js/main.5acf82cd.js",
+    "static/media/shin_headshot-1.JPEG": "/public/index.html/static/media/shin_headshot-1.330fd3a4b3602a5ac00f.JPEG",
+    "static/media/NYC_S.png": "/public/index.html/static/media/NYC_S.6a601da86d044769cbc1.png",
+    "static/media/LaBelleAurore.woff2": "/public/index.html/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/public/index.html/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/public/index.html/index.html",
+    "main.7bc65b5e.css.map": "/public/index.html/static/css/main.7bc65b5e.css.map",
+    "main.5acf82cd.js.map": "/public/index.html/static/js/main.5acf82cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bc65b5e.css",
+    "static/js/main.5acf82cd.js"
+  ]
+}
