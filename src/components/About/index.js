@@ -24,14 +24,15 @@ const About = () => {
                             idx = {15}
                         />
                     </h1>
-                    <p> Hi, my name is Shinnosuke. I am a software engineer and web developer based in New York City. </p>
+                    <p> Hi, my name is Shinnosuke. I am a software engineer and web developer based in New York City.</p>
+                    <p> I received my first computer at the age of 3, and have been addicted ever since!</p>
                 </div>
 
                 <div className='myPhoto'>
                     <img src={myPhoto} alt="img" />
                 </div>  
             </div>
-            <Loader type="ball-scale-ripple-multiple" />
+            <Loader type="pacman" />
         </>
     )
 }

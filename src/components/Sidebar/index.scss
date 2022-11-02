@@ -1,5 +1,5 @@
 .nav-bar {
-    background: #181818;
+    background: black;
     width: 60px;
     height: 100%;
     position: absolute;
@@ -35,7 +35,7 @@ nav {
 
     a {
         font-size: 22px;
-        color: #4d4d4e;
+        color: #FFFF00;
         display: block;
         line-height: 51px;
         height: 51px;
@@ -47,7 +47,7 @@ nav {
         }
 
         &:hover {
-            color: #076500;
+            color: #FFFF00;
 
             svg {
                 opacity: 0;
@@ -90,9 +90,15 @@ nav {
         }
     }
 
+    a.work-link {
+        &:after{
+            content: 'WORK';
+        }
+    }
+
     a.active {
         svg {
-            color: #076500;
+            color: #FFFF00
         }
     }
 }
@@ -115,7 +121,7 @@ ul {
             line-height: 16px;
 
             &:hover svg {
-                color: #076500
+                color: #FFFF00
             }
         }
     }

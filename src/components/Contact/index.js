@@ -19,7 +19,7 @@ const Contact = () => {
 
         emailjs
             .sendForm(
-                'gmail',
+                'service_qqko3fa',
                 'template_vy6x5zp',
                 refForm.current,
                 'ZmrWg2TwnDFqdmgpS'
@@ -56,7 +56,7 @@ const Contact = () => {
                             <li className='half'>
                                 <input 
                                     type="text" 
-                                    name="name" 
+                                    name="name"
                                     placeholder="Name"
                                     required />
                             </li>
@@ -91,7 +91,7 @@ const Contact = () => {
                     </form>
                 </div>
         </div>
-        <Loader type="ball-scale-ripple-multiple"/>
+        <Loader type="pacman"/>
     </>
     )
 }

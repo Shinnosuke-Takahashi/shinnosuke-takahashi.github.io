@@ -5,7 +5,7 @@
     position: relative;
     transform: translateX(100%);
     top: 20%;
-    right: 2%;
+    right: -2%;
     bottom: 0;
     left: auto;
     margin: auto;
@@ -28,7 +28,7 @@
     }
 
     .svg-container {
-        stroke: #076500;
+        stroke: #FFFF00;
         stroke-width: 5px;
         position: relative;
         vertical-align: middle;

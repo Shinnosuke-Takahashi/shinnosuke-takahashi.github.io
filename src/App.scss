@@ -1,7 +1,7 @@
-$primary-color: #076500;
+$primary-color: #eeff00;
 
 @import 'animate.css';
-@import '~loaders.css/src/animations/ball-scale-ripple-multiple.scss';
+@import '~loaders.css/src/animations/pacman.scss';
 
 @font-face {
   font-family: 'La Belle Aurore';
@@ -30,4 +30,15 @@ textarea {
   height: 50px;
   animation: fadeOut 1s 1s;
   animation-fill-mode: forwards;
-} 
+}
+
+.bgImg {
+  position: absolute;
+  height: auto;
+  width: 100vw;
+  transform: translate(-5vh,4vh);
+}
+
+html {
+  background-color: black;
+}

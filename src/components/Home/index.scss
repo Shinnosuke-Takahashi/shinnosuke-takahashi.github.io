@@ -12,7 +12,7 @@
     }
 
     h1 {
-        color: #076500;
+        color: #FFFF00;
         font-size: 53px;
         margin: 0;
         font-family: 'Coolvetica';
@@ -21,7 +21,7 @@
         &::before {
             content: 'Hello there,';
             font-family: 'La Belle Aurore';
-            color: #076500;
+            color: #FFFF00;
             font-size: 25px;
             position: absolute;
             margin-top: -40px;
@@ -32,7 +32,7 @@
         &::after {
             content: 'Welcome to my page!';
             font-family: 'La Belle Aurore';
-            color: #076500;
+            color: #FFFF00;
             font-size: 25px;
             position: absolute;
             margin-top: 155px;
@@ -63,21 +63,21 @@
     }
 
     .flat-button {
-        color: #076500;
+        color: #FFFF00;
         font-size: 13px;
         font-weight: 400;
         letter-spacing: 4px;
         font-family: sans-serif;
         text-decoration: none;
         padding: 10px 18px;
-        border: 1px solid #076500;
+        border: 1px solid #FFFF00;
         margin-top: 22px;
         float: left;
         animation: fadeIn 1s 1.8s backwards;
         white-space: nowrap;
 
         &:hover {
-            background: #076500;
+            background: #FFFF00;
             color: #333;
         }
     }

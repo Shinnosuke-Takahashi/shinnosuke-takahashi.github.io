@@ -1,0 +1,20 @@
+.webgrid {
+    position: absolute;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    right: 10vw;
+    top: 10vh;
+}
+
+.site {
+    margin: 5px;
+}
+
+.site:hover {
+    opacity: 0.8;
+}
+
+img {
+    width: 20vw;
+    height: auto;
+}

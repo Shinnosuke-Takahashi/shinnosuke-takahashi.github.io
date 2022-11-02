@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cf8825d.css",
-    "main.js": "/static/js/main.ce3893ae.js",
+    "main.css": "/static/css/main.88df34dd.css",
+    "main.js": "/static/js/main.e6847b4e.js",
+    "static/media/tmdsite.png": "/static/media/tmdsite.69fa59cd63949adf7281.png",
+    "static/media/tmdcommerce.png": "/static/media/tmdcommerce.25ed3eb1096d0f17a514.png",
+    "static/media/ipfs.png": "/static/media/ipfs.8e531dcf2c2e2a57e2e7.png",
     "static/media/shin_headshot-1.JPEG": "/static/media/shin_headshot-1.330fd3a4b3602a5ac00f.JPEG",
-    "static/media/NYC_S.png": "/static/media/NYC_S.6a601da86d044769cbc1.png",
+    "static/media/background.jpg": "/static/media/background.9dc6abb719142a7e92b5.jpg",
+    "static/media/NYC_S.png": "/static/media/NYC_S.acb6ee0228bfdcc7c9b2.png",
     "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
-    "main.1cf8825d.css.map": "/static/css/main.1cf8825d.css.map",
-    "main.ce3893ae.js.map": "/static/js/main.ce3893ae.js.map"
+    "main.88df34dd.css.map": "/static/css/main.88df34dd.css.map",
+    "main.e6847b4e.js.map": "/static/js/main.e6847b4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cf8825d.css",
-    "static/js/main.ce3893ae.js"
+    "static/css/main.88df34dd.css",
+    "static/js/main.e6847b4e.js"
   ]
 }
